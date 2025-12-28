@@ -1,0 +1,7 @@
+{
+  "name": "AIAgentChatApp_v1.1_Prod",
+  "description": "A fully functional chat application that interacts with an N8N AI agent, featuring persistent chat history using local storage, designed to mimic the user experience of leading AI chat platforms like Google Gemini and ChatGPT.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
